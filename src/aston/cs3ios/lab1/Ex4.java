@@ -1,7 +1,8 @@
 package aston.cs3ios.lab1;
 import java.util.Scanner;
 
-public class CurrencyConverter {
+//Task F on the sheet, also can Ex4 is the currency converter task
+public class Ex4 {
 
     public static void main(String[] args) {
         // Exchange rate from GBP to USD

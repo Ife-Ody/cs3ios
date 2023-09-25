@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81f92b81-539a-47f0-aebc-35823e53c591" name="Changes" comment="day 1-3 done">
-      <change afterPath="$PROJECT_DIR$/src/aston/cs3ios/lab4/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aston/cs3ios/lab4/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="81f92b81-539a-47f0-aebc-35823e53c591" name="Changes" comment="day 4 done; Week 1 tutorials complete">
+      <change beforePath="$PROJECT_DIR$/src/aston/cs3ios/lab3/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695630937456</updated>
-      <workItem from="1695630940453" duration="8613000" />
+      <workItem from="1695630940453" duration="9310000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -137,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695644118330</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 4 done; Week 1 tutorials complete">
+      <option name="closed" value="true" />
+      <created>1695647612616</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695647612617</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +163,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="day 1-3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 1-3 done" />
+    <MESSAGE value="day 4 done; Week 1 tutorials complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 4 done; Week 1 tutorials complete" />
   </component>
 </project>
