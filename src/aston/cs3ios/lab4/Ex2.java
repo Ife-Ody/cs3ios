@@ -13,7 +13,7 @@ public class Ex2 {
         // Check the age group and determine the admission price
         int admissionPrice;
 
-//        check that the age is valid... not part of the task but i think it's necessary... could also do try-catch
+        // Check that the age is valid... not part of the task but i think it's necessary... could also do try-catch
         while (age < 0 ){
             System.out.println("ERROR: Invalid Age");
             System.out.print("Please enter your age: ");
