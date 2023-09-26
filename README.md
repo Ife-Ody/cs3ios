@@ -12,7 +12,7 @@ This repo contains all my `JAVA` solutions to the problem sheets for the CS3IOS 
 
 | Course Weeks | Status |
 | ------ | ------ |
-| Week 1 | [Lab 1 - 4](https://github.com/Ife-Ody/cs3ios/tree/main/src/aston/cs3ios) ✅ done |
+| Week 1 | [Lab 1 - 4](https://github.com/Ife-Ody/cs3ios/tree/main/src/aston/cs3ios/week1) ✅ done |
 | Week 2 | Lab 1 - 4 ⛔️ working on it |
 | Week 3 | Lab 1 - 4 ⛔️ working on it  |
 | Week 4 | Lab 1 - 4 ⛔️ working on it  |
