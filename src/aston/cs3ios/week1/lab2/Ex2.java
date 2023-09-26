@@ -1,4 +1,4 @@
-package aston.cs3ios.lab2;
+package aston.cs3ios.week1.lab2;
 
 import java.util.Scanner;
 

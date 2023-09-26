@@ -1,4 +1,4 @@
-package aston.cs3ios.lab1;
+package aston.cs3ios.week1.lab1;
 
 public class Ex1 {
     public static void main(String[] args){

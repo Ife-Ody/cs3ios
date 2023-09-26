@@ -1,4 +1,4 @@
-package aston.cs3ios.lab3;
+package aston.cs3ios.week1.lab3;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.util.Locale;

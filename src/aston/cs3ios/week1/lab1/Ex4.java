@@ -1,4 +1,4 @@
-package aston.cs3ios.lab1;
+package aston.cs3ios.week1.lab1;
 import java.util.Scanner;
 
 //Task F on the sheet, also can Ex4 is the currency converter task

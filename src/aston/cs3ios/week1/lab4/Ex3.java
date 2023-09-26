@@ -1,4 +1,4 @@
-package aston.cs3ios.lab4;
+package aston.cs3ios.week1.lab4;
 import java.util.Scanner;
 
 public class Ex3 {
